@@ -25,7 +25,7 @@ const SideMenu = ({dark, setDark}: Display) => {
 
     
       <div className={menuActive ? 'flex sm:hidden bg-gray-50 dark:bg-gray-700 backdrop-blur-lg transition-all ease-in duration-150' : 'hidden'}>
-              <div className='sm:hidden flex flex-col gap-14 m-auto p-8'>
+              <div className='sm:hidden flex flex-col gap-8 m-auto p-8'>
                 <a onClick={() => setMenuActive(false)} href='#about' className='text-gray-700 dark:text-gray-50 font-bold cursor-pointer m-auto' >
                   About
                 </a>
