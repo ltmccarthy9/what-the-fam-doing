@@ -16,6 +16,7 @@ https://what-the-fam-doing.vercel.app
 * Nextjs
 * TypeScript
 * Tailwind CSS
+* unDraw (illustrations) - https://undraw.co/illustrations
 
 ![alt text](./public/wtfd.png)
 
