@@ -13,7 +13,7 @@ export default function Home() {
 
   return (
     <main id='landing' className='flex flex-col'>
-        <div className='h-screen p-6 flex flex-col gap-2 mx-auto mt-10 sm:mt-28 w-full max-w-7xl text-4xl md:text-5xl
+        <div className='h-screen p-6 flex flex-col gap-2 mx-auto mt-16 sm:mt-28 w-full max-w-7xl text-4xl md:text-5xl
          font-bold text-center text-gray-700 dark:text-gray-50'>
           <h1>Wanna keep in touch with your family?</h1>
           <h1 className=' font-light text-2xl md:text-3xl sm:mb-8'>But don't want grandma all up in your instagram?</h1>
